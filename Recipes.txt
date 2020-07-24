@@ -8,5 +8,8 @@ beans
 pizza
 fride rice
 
+Parata
+Roti
+
 
 THANK YOU!
